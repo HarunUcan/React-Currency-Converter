@@ -15,6 +15,6 @@ React ile geliştirilmiş, basit ve kullanıcı dostu bir para birimi dönüşt�
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- ⚛️ **React** – Kullanıcı arayüzü geliştirme
-- 🎨 **Tailwind CSS** – Modern ve responsive stil yapısı
-- 🔄 **Axios** – API ile veri alışverişi
+- **React** – Kullanıcı arayüzü geliştirme
+- **Tailwind CSS** – Modern ve responsive stil yapısı
+- **Axios** – API ile veri alışverişi
